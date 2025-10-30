@@ -6,4 +6,4 @@
 | Sauvegarder un article          | Enregistrer un article pour le relire plus tard       | **Should** | Facilite la lecture différée pour les visiteurs  |
 | Partager un article             | Envoyer ou publier le lien sur les réseaux sociaux    | **Could**  | Renforce la visibilité du blog                   |
 | Gérer les articles              | Ajouter, modifier ou supprimer un article             | **Must**   | Fonction essentielle pour l’administrateur       |
-| Consulter les statistiques      | Voir le nombre de vues ou d’interactions              | **Could**  | Aide à analyser les performances du contenu      |
+
