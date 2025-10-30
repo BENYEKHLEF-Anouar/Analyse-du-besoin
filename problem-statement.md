@@ -1,5 +1,9 @@
 ## Définir le problème et la solution
 
+# Problem 
+
+Comment préserver le patrimoine cinématographique de Ouarzazate et soutenir les jeunes créateurs locaux ?
+
 # Problem Statement
 
 **Pour le Touriste culturel**, qui a du mal à trouver des informations fiables et centralisées sur le patrimoine cinématographique de Ouarzazate,  
