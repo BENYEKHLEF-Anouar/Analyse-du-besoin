@@ -1,14 +1,44 @@
-# Persona principal – Youssef, apprenant motivé
+## Identifier l’utilisateur principal
 
-**Âge / contexte :** 24 ans, étudiant en informatique, apprend le développement web après ses cours. Il utilise surtout son smartphone et parfois son ordinateur portable le soir.  
+# Persona – Touriste culturel (Prioritaire)
 
-**Objectif principal :** Progresser rapidement en programmation en trouvant des articles clairs, pratiques et récents.  
+**Âge / contexte :**  
+28 ans, passionné de cinéma et de voyages, vient de visiter le Maroc pour découvrir les lieux emblématiques du cinéma. Utilise principalement son smartphone pour prendre des photos et s’informer sur les sites touristiques, et son ordinateur portable pour planifier ses voyages.
 
-**Besoins clés :**
-- Rechercher facilement des tutoriels simples et à jour.  
-- Sauvegarder les articles utiles pour les relire plus tard.  
-- Consulter le contenu même avec une connexion faible.  
+**Objectif principal :**  
+Découvrir l’histoire cinématographique de Ouarzazate et les studios locaux, tout en accédant à des contenus enrichissants et inspirants sur le cinéma.
 
-**Frustration :** Difficulté à trouver des ressources de qualité sans publicité ni contenu trop technique.  
+**Besoins clés :**  
+- Accéder facilement à des articles et vidéos sur l’histoire du cinéma à Ouarzazate.  
+- Trouver des informations sur les visites guidées, événements et festivals locaux.  
+- Sauvegarder ou partager les contenus intéressants avec ses amis ou sur les réseaux sociaux.  
+- Accéder aux contenus même avec une connexion internet limitée lors des déplacements.
 
-**Environnement :** Smartphone Android et PC portable, connexion Wi-Fi à la maison et 4G limitée à l’extérieur.
+**Frustration :**  
+Difficulté à trouver des informations fiables et bien présentées sur le patrimoine cinématographique local. Trop de contenus dispersés ou non mis à jour.
+
+**Environnement :**  
+Smartphone Android et PC portable, utilise Wi-Fi dans les hôtels et connexion mobile limitée en déplacement.
+
+
+--------------
+
+# Persona – Jeune créateur
+
+**Âge / contexte :**  
+22 ans, étudiant en cinéma ou en arts visuels, passionné par la réalisation et la production audiovisuelle. Il jongle entre ses cours et de petits projets de tournage locaux. Il utilise surtout son smartphone pour consulter des ressources et partager ses projets, et un ordinateur portable pour le montage et la création.
+
+**Objectif principal :**  
+Développer ses compétences en réalisation, montage et production de films, tout en construisant un réseau local et en exposant ses projets.
+
+**Besoins clés :**  
+- Accéder à des tutoriels simples et pratiques sur la réalisation, le montage et les effets spéciaux.  
+- Découvrir des opportunités de financement, de stages et de collaborations locales.  
+- Partager ses créations facilement et obtenir des retours constructifs.  
+- Consulter des articles et des vidéos même avec une connexion instable.
+
+**Frustration :**  
+Manque de ressources locales accessibles et adaptées aux débutants, difficulté à trouver des mentors et du soutien concret dans sa ville.
+
+**Environnement :**  
+Smartphone Android pour les recherches et les partages rapides, PC portable pour le montage et l’écriture de scénarios, connexion Wi-Fi à domicile et réseau 4G limité à l’extérieur.
