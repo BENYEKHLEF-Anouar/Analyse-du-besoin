@@ -6,4 +6,4 @@
 | UC4 | Touriste | Sauvegarder un article                              | Should   |
 | UC5 | Touriste | Partager un article sur les réseaux sociaux         | Could    |
 | UC6 | Admin    | Gérer les articles (ajouter / modifier / supprimer) | Must     |
-| UC7 | Admin    | Consulter les statistiques du blog                  | Could    |
+
