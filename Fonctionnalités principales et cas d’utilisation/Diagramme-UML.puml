@@ -14,12 +14,12 @@ rectangle "Blog Ouarzazate" {
   (Gérer les articles) as UC6
 }
 
-Touriste --> UC1
-Touriste --> UC2
-Touriste --> UC3
-Touriste --> UC4
-Touriste --> UC5
+Touriste -- UC1
+Touriste -- UC2
+Touriste -- UC3
+Touriste -- UC4
+Touriste -- UC5
 
-Admin --> UC6
+Admin -- UC6
 
 @enduml
