@@ -3,6 +3,7 @@ title Diagramme de cas d’utilisation -- Blog: Ouarzazate - Cinéma Atlas
 
 actor "Touriste culturel" as Touriste
 actor "Administrateur" as Admin
+Éditeur <|--  Admin
 
 rectangle "Blog Ouarzazate" {
   
