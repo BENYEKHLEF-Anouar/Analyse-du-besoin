@@ -4,6 +4,7 @@
 | UC2 | Touriste | Lire un article en détail                           | Must     |
 | UC3 | Touriste | Rechercher un article                               | Should   |
 | UC4 | Touriste | Sauvegarder un article                              | Should   |
+| UC5 | Touriste | Commenter sur un article                            | Must     |
 | UC5 | Touriste | Partager un article sur les réseaux sociaux         | Could    |
 | UC6 | Admin    | Gérer les articles (ajouter / modifier / supprimer) | Must     |
 
